@@ -1,20 +1,17 @@
 # Restaurant Reviews : Sentiment Analysis
----------------------------------------------
+The purpose of this analysis is to build a prediction model to predict whether a review on the restaurant is positive or negative. To do so, we will work on Restaurant Review dataset, we will load it into predicitve algorithms Multinomial Naive Bayes, Bernoulli Naive Bayes and Logistic Regression. In the end, we hope to find a "best" model for predicting the review's sentiment.
 
-## Methods :
+## To build a model to predict if review is positive or negative, following steps are performed. :
 
-1 Loading Data
-
-2 Create Wordcloud
-
-3 Feature Generation using Bag of Words
-
-4 Split train and test set
-
-5 Model Building and Evaluation
-
-6. Predict Sentiment
-
+  * Importing Dataset
+  * 
+  * Preprocessing Dataset
+   
+  * Text Vectorization
+   
+  * Training and Classification
+  
+  * Analysis Conclusion
 
 
 ![11](https://user-images.githubusercontent.com/108679625/201629607-89c19a5e-17fa-433f-9102-563f67a7d451.png)
