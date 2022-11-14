@@ -4,10 +4,15 @@
 ## Methods :
 
 1 Loading Data
+
 2 Create Wordcloud
+
 3 Feature Generation using Bag of Words
+
 4 Split train and test set
+
 5 Model Building and Evaluation
+
 6. Predict Sentiment
 
 
